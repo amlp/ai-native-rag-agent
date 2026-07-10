@@ -1,0 +1,98 @@
+[
+  {
+    "role": "user",
+    "content": "产假规定是多少天"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "import asyncio"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": "<think>用户询问育儿假申请规则，我通过doc_search查询到了相关信息。\n\n让我检查返回的内容：\n- 文档标题：育儿假\n- 内容包含：育儿假每年可申请5天，需提前7个工作日提交申请，不可与婚假连续休假，上午10点前补提交审批。\n\n这个信息看起来是关于育儿假申请规则的具体规定。让我验证一下：\n1. 是否和问题相关？是的，直接回答了育儿假申请规则\n2. 信息是否完整？包含了天数、申请时间要求、限制条件等基本规则\n3. 有无矛盾或缺失？没有发现明显矛盾\n\n根据规则，信息已经足够完整回答用户的问题，应该直接输出最终答案。\n\n注意规则要求：\n- 禁止使用markdown加粗等格式\n- 仅输出纯文本\n- 简洁完整回答\n</think>\n\n育儿假申请规则如下：\n\n1. 假期天数：每年可申请5天育儿假\n2. 申请时间：需提前7个工作日提交申请\n3. 休假限制：育儿假不可与婚假连续休假\n4. 补交流程：如需补交材料，应在上午10点前完成提交审批"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么?"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  },
+  {
+    "role": "user",
+    "content": "育儿假申请规则是什么？"
+  }
+]
